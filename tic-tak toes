@@ -1,4 +1,4 @@
-print("hellow world")
+print("hello, world!")
 # code to play tic-tak toes 
 from random import randrange
 
