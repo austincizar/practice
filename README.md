@@ -1,0 +1,1 @@
+These are some of the practice projects I completed while understanding some of the essentials in the tech industry. Some of the areas involved in this "practice" repository include data analytics and cybersecurity.
